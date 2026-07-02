@@ -17,7 +17,7 @@ My research interests include analysis, probability, discrete mathematics, and a
 
 Dossier
 ====
-- <i>Curriculum vitae</i> in <a href="https://annacgilbert.github.io/files/cv.02.2024.pdf">.pdf</a> format.
+- <i>Curriculum vitae</i> in <a href="https://annacgilbert.github.io/files/cv.02.2026.pdf">.pdf</a> format.
 
 Awards
 ====
