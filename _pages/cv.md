@@ -90,9 +90,9 @@ Patents
 Press Clippings
 ========
 <ul>
-  <li>Barry Cipra, <a href="vita/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 1999.
+  <li>Barry Cipra, <a href="https://annacgilbert.github.io/files/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 1999.
   </li>
-  <li>Barry Cipra, <a href="vita/SIAM-sublinear.pdf">"Sublinear Computing: When Ignorance is Bliss,"</a> <i>SIAM News</i>, Volume 37, No. 3, 2004.
+  <li>Barry Cipra, <a href="https://annacgilbert.github.io/files/SIAM-sublinear.pdf">"Sublinear Computing: When Ignorance is Bliss,"</a> <i>SIAM News</i>, Volume 37, No. 3, 2004.
   </li>
 </ul>
 
