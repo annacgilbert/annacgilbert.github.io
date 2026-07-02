@@ -3,7 +3,6 @@ title: "Privacy, sparse recovery, and inverse problems"
 excerpt: "Recovering signals from few measurements while respecting constraints such as differential privacy, and solving nonlinear inverse problems.<br/>"
 collection: portfolio
 permalink: /portfolio/3-privacy-and-inverse-problems
-date: 2024-01-03
 ---
 
 I work on recovering signals from few measurements while respecting additional

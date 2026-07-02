@@ -3,7 +3,6 @@ title: "Foundations of sparse approximation"
 excerpt: "The mathematical foundations underpinning my applied work: sparse approximation, sublinear-time and sparse Fourier algorithms, and compressive sensing.<br/>"
 collection: portfolio
 permalink: /portfolio/4-sparse-approximation
-date: 2024-01-04
 ---
 
 Underpinning much of my applied work is a long-running program on the

@@ -3,7 +3,6 @@ title: "The geometry and metric structure of data"
 excerpt: "How faithfully can we represent complex data with simple geometric structure — trees, hyperbolic spaces, and metric spaces — and what goes wrong when we cannot?<br/>"
 collection: portfolio
 permalink: /portfolio/1-geometry-of-data
-date: 2024-01-01
 ---
 
 Much of my current work asks how faithfully we can represent complex data with

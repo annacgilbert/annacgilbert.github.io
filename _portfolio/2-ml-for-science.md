@@ -3,7 +3,6 @@ title: "Machine learning for the physical and life sciences"
 excerpt: "Using machine learning to accelerate scientific discovery — from predicting metallic glasses to selecting markers in single-cell genomics.<br/>"
 collection: portfolio
 permalink: /portfolio/2-ml-for-science
-date: 2024-01-02
 ---
 
 Working with collaborators in materials science and biology, I study how machine
