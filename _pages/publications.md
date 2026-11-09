@@ -151,6 +151,7 @@ A selection of recent themes and projects appears on my
 
 <h2>Refereed workshop publications</h2>
 <ul>
+  <li>Isay Katsman and Anna C. Gilbert, "Harmonic Sampling: Zero-Parameter Flows on Compact Manifolds," <i><a href="https://icml.cc/virtual/2026/workshop/54069">ICML 2026 Workshop on AI for Physics (AI4Physics)</a></i>, 2026.</li>
   <li>Sean M. O'Connor, Jerome P. Lynch, and Anna C. Gilbert, "Implementation of a compressive sampling scheme for wireless sensors to achieve energy efficiency in a structural health monitoring system," <i>Proc. SPIE 8694, Nondestructive Characterization for Composite Materials, Aerospace Engineering, Civil Infrastructure, and Homeland Security</i>, April 2013.</li>
   <li>A. C. Gilbert, B. Hemenway, M. J. Strauss, D. P. Woodruff, and M. Wootters, "Reusable low-error compressive sampling schemes through privacy," <i>Proceedings of IEEE Statistical Signal Processing Workshop</i>, 2012.</li>
   <li>X. Kong, P. Petre, R. Matic, A. Gilbert, and M. Strauss, "An analog-to-information converter for wideband signals using a time encoding machine," <i>2011 IEEE Digital Signal Processing Workshop and IEEE Signal Processing Education Workshop (DSP/SPE)</i>, pp. 414&ndash;419, Jan. 2011.</li>
