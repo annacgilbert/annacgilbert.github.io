@@ -17,7 +17,7 @@ My research interests include analysis, probability, discrete mathematics, and a
 
 Dossier
 ====
-- <i>Curriculum vitae</i> in <a href="https://annacgilbert.github.io/files/cv.02.2026.pdf">.pdf</a> format.
+- <i>Curriculum vitae</i> in <a href="https://annacgilbert.github.io/files/cv.11.2026.pdf">.pdf</a> format.
 
 Awards
 ====
@@ -65,7 +65,7 @@ Funding
   </li>
   <li> <a href="http://www.sloan.org/programs/scitech_fellowships.shtml" target="_blank">Alfred P. Sloan Foundation Fellow,</a> 2006--2008.
   </li>
-  <li>DARPA/ONR N66001-06-1-2011: Theory and Practice of Analog-to-Information Conversion (Phase I), co-PI, January 2006--January 2007.
+  <li>DARPA/ONR N66001-06-1-2011: Theory and Practice of Analog-to-Information Conversion (Phase I), co-PI, January 2006--December 2006.
   </li>
   <li>NSF CNS 0540154, DDDAS-SMRP: Optimizing Signal and Image Processing in a Dynamic, Data-Driven Application System, co-PI, January 2006--November 2008.
   </li>
@@ -91,7 +91,7 @@ Patents
 Press Clippings
 ========
 <ul>
-  <li>Barry Cipra, <a href="https://annacgilbert.github.io/files/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 1999.
+  <li>Barry Cipra, <a href="https://annacgilbert.github.io/files/siamnewsarticle-tangled.pdf">"Oh, What a Tangled Web We've Woven...,"</a> <i>SIAM News</i>, Volume 33, No. 2, 2000.
   </li>
   <li>Barry Cipra, <a href="https://annacgilbert.github.io/files/SIAM-sublinear.pdf">"Sublinear Computing: When Ignorance is Bliss,"</a> <i>SIAM News</i>, Volume 37, No. 3, 2004.
   </li>

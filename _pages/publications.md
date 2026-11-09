@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <p>For a complete and up-to-date record, see my
-<a href="https://annacgilbert.github.io/files/cv.02.2026.pdf">curriculum vitae</a>.
+<a href="https://annacgilbert.github.io/files/cv.11.2026.pdf">curriculum vitae</a>.
 A selection of recent themes and projects appears on my
 <a href="/portfolio/">projects</a> page.</p>
 
