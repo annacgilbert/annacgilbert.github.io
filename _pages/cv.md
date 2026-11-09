@@ -47,6 +47,7 @@ Funding
 ======
 
 <ul>
+   <li> NSF Science and Technology Center: <a href="https://tempest-stc.msu.edu/">TEMPEST</a> (Transformative Explorations in Multi-Physics and Engineering of Scientific Turbulence), co-PI (Michael S. Murillo, Michigan State University, PI), September 2026--August 2031, $30 million (center total). </li>
    <li> MIDAS Challenge grant, co-PI and co-director of Michigan Institute for Single Cell Data Analysis, March 2017--February 2020, $1.2 million. </li>
    <li> Simons Foundation Fellowship, 2017--2018. </li>
    <li> Samsung research funds, ``Neural Network Inspired Compressive Sensing and Image Processing,'' Prof.~Michael Flynn (ECE) PI, $60,000, 2013--2020. </li>
