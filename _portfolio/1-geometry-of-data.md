@@ -16,5 +16,12 @@ hyperbolic distances* (NeurIPS 2023), *How can classical multidimensional scalin
 go wrong?* (NeurIPS 2021), *Tree! I am no Tree!* (NeurIPS 2020), and *Generalized
 Metric Repair on Graphs* (SWAT 2020).
 
+Recent preprints: *Structural Tractability Frontiers for Metric Repair*
+([arXiv:2607.29649](https://arxiv.org/abs/2607.29649)), *Metric repair is two
+problems: Which edges, and what weights*
+([arXiv:2608.07715](https://arxiv.org/abs/2608.07715)), and *Hyperbolicity,
+slimness, and minsize, on average*
+([arXiv:2412.05746](https://arxiv.org/abs/2412.05746)).
+
 Students interested in the geometry of data, embeddings, and optimization on
 metric constraints are welcome to get in touch.

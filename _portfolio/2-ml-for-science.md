@@ -10,7 +10,8 @@ learning can accelerate scientific discovery. Two current threads:
 
 - **Materials discovery.** Predicting the *glass-forming ability* of metallic
   glasses, and understanding how domain-informed subgrouping improves prediction
-  (*Acta Materialia* 2023, 2024).
+  (*Acta Materialia* 2023, 2024); and asking whether machine learning can
+  predict the liquidus temperature of binary alloys (*Acta Materialia* 2026).
 - **Computational genomics.** Selecting informative marker genes from
   high-throughput single-cell RNA-sequencing data (*BMC Bioinformatics* 2020).
 

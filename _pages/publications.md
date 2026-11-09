@@ -12,11 +12,23 @@ author_profile: true
 A selection of recent themes and projects appears on my
 <a href="/portfolio/">projects</a> page.</p>
 
+<h2>Preprints</h2>
+<ul>
+  <li>Asaf Etgar, Anna Gilbert, Quanquan C. Liu, Andrew McGregor, "Parameter-Free Triangle Counting," <a href="https://arxiv.org/abs/2609.24829">arXiv:2609.24829</a>, 2026.</li>
+  <li>Zijian Wang, Gregory J. Herschlag, Joon-Hyeok Yim, Jonathan C. Mattingly, Anna C. Gilbert, "Towards stratified sampling for redistricting plans," <a href="https://arxiv.org/abs/2609.18741">arXiv:2609.18741</a>, 2026.</li>
+  <li>Asaf Etgar, Anna Gilbert, Quanquan C. Liu, Andrew McGregor, "Scalable Triangle Counting: The Threshold Algorithm," <a href="https://arxiv.org/abs/2609.15848">arXiv:2609.15848</a>, 2026.</li>
+  <li>Asaf Etgar and Anna Gilbert, "Metric repair is two problems: Which edges, and what weights," <a href="https://arxiv.org/abs/2608.07715">arXiv:2608.07715</a>, 2026.</li>
+  <li>Asaf Etgar, Anna C. Gilbert, Jamie Tucker-Foltz, "Structural Tractability Frontiers for Metric Repair," <a href="https://arxiv.org/abs/2607.29649">arXiv:2607.29649</a>, 2026.</li>
+  <li>Anna C. Gilbert and Joon-Hyeok Yim, "Hyperbolicity, slimness, and minsize, on average," <a href="https://arxiv.org/abs/2412.05746">arXiv:2412.05746</a>, 2024.</li>
+  <li>Anna C. Gilbert and Kevin O'Neill, "Sketching the Heat Kernel: Using Gaussian Processes to Embed Data," <a href="https://arxiv.org/abs/2403.07929">arXiv:2403.07929</a>, 2024.</li>
+</ul>
+
 <h2>Refereed journal publications</h2>
 <ul>
-  <li>Isay Katsman, Ethan Lou, Anna Gilbert, "Revisiting the Necessity of Graph Learning and Common Graph Benchmarks," to appear in <i>Neural Processing Letters</i>, 2026.</li>
-  <li>Kevin O'Neill and Anna Gilbert, "CA-PCA: Manifold dimension estimation, adapted for curvature," <i>SIAM Journal on Mathematics of Data Science</i>, vol. 7, no. 1, pp. 355&ndash;383, 2025.</li>
-  <li>Isay Katsman and Anna Gilbert, "Shedding Light on Problems with Hyperbolic Graph Learning," <i>Transactions on Machine Learning Research</i>, 2024.</li>
+  <li>Yifei He, Isay Katsman, Guannan Liu, Sungwoo Sohn, Mark D. Shattuck, Corey S. O'Hern, Anna Gilbert, Jan Schroers, "Can machine learning predict the liquidus temperature of binary alloys?," <i>Acta Materialia</i>, vol. 312, 122220, 2026. [<a href="https://doi.org/10.1016/j.actamat.2026.122220">doi</a>]</li>
+  <li>Isay Katsman, Ethan Lou, Anna Gilbert, "Revisiting Graph Learning Benchmarks: When is the Graph Actually Necessary?," <i>Neural Processing Letters</i>, vol. 58, no. 2, 2026. [<a href="https://doi.org/10.1007/s11063-026-11833-6">doi</a>] [<a href="https://arxiv.org/abs/2412.06173">arXiv</a>]</li>
+  <li>Kevin O'Neill and Anna Gilbert, "CA-PCA: Manifold dimension estimation, adapted for curvature," <i>SIAM Journal on Mathematics of Data Science</i>, vol. 7, no. 1, pp. 355&ndash;383, 2025. [<a href="https://doi.org/10.1137/23M1575135">doi</a>] [<a href="https://arxiv.org/abs/2309.13478">arXiv</a>]</li>
+  <li>Isay Katsman and Anna Gilbert, "Shedding Light on Problems with Hyperbolic Graph Learning," <i>Transactions on Machine Learning Research</i>, 2024. [<a href="https://arxiv.org/abs/2411.06688">arXiv</a>]</li>
   <li>Guannan Liu, Sungwoo Sohn, Corey S. O'Hern, Anna C. Gilbert, Jan Schroers, "Effective subgrouping enhances machine learning prediction in complex materials science phenomena: Inoue's subgrouping in discovering bulk metallic glasses," <i>Acta Materialia</i>, vol. 265, 2024.</li>
   <li>G. Liu, S. Sohn, Sebastian A. Kube, A. Raj, A. Mertz, A. Nawano, A. Gilbert, M. D. Shattuck, C. S. O'Hern, J. Schroers, "Machine learning versus human learning in predicting glass-forming ability of metallic glasses," <i>Acta Materialia</i>, vol. 243, 2023.</li>
   <li>Rishi Sonthalia and Anna C. Gilbert, "Project and Forget: Solving Large-Scale Metric Constrained Problems," <i>Journal of Machine Learning Research</i>, 23:326, pp. 1&ndash;54, 2023.</li>
@@ -62,8 +74,8 @@ A selection of recent themes and projects appears on my
 
 <h2>Refereed conference publications</h2>
 <ul>
-  <li>Doron Haviv, Russell Zhang Kunes, Thomas Dougherty, Cassandra Burdziak, Tal Nawy, Anna Gilbert, Dana Pe'er, "Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformer," <i>ICML</i>, 2024.</li>
-  <li>Joon-hyeok Yim, Anna Gilbert, "Fitting trees to &#8467;<sub>1</sub> hyperbolic distances," <i>NeurIPS</i>, 2023.</li>
+  <li>Doron Haviv, Russell Zhang Kunes, Thomas Dougherty, Cassandra Burdziak, Tal Nawy, Anna Gilbert, Dana Pe'er, "Wasserstein Wormhole: Scalable Optimal Transport Distance with Transformers," <i>ICML</i>, 2024. [<a href="https://arxiv.org/abs/2404.09411">arXiv</a>]</li>
+  <li>Joon-hyeok Yim, Anna Gilbert, "Fitting trees to &#8467;<sub>1</sub> hyperbolic distances," <i>NeurIPS</i>, 2023. [<a href="https://arxiv.org/abs/2409.01010">arXiv</a>]</li>
   <li>Rishi Sonthalia, Anna Gilbert, Matthew Durham, "RelWire: Metric Based Graph Rewiring," <i>NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations</i>, 2023.</li>
   <li>Y. Zhang, A. C. Gilbert, S. Steinerberger, "May the force be with you," <i>Allerton Conference on Control and Communication</i>, 2022.</li>
   <li>Rishi Sonthalia, Gregory Van Buskirk, Benjamin Raichel, Anna C. Gilbert, "How can classical multidimensional scaling go wrong?," <i>NeurIPS</i>, 2021.</li>
